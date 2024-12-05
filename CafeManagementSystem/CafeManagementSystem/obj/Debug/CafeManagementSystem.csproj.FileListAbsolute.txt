@@ -1,0 +1,29 @@
+E:\C# Projects\Cafe Management System Project\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe.config
+E:\C# Projects\Cafe Management System Project\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe
+E:\C# Projects\Cafe Management System Project\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.pdb
+E:\C# Projects\Cafe Management System Project\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csprojResolveAssemblyReference.cache
+E:\C# Projects\Cafe Management System Project\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.Form1.resources
+E:\C# Projects\Cafe Management System Project\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.Properties.Resources.resources
+E:\C# Projects\Cafe Management System Project\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.GenerateResource.Cache
+E:\C# Projects\Cafe Management System Project\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.exe
+E:\C# Projects\Cafe Management System Project\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.pdb
+E:\C# Projects\Cafe Management System Project\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.ItemForm.resources
+E:\C# Projects\Cafe Management System Project\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UserOrder.resources
+E:\C# Projects\Cafe Management System Project\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.ItemsForm.resources
+E:\C# Projects\Cafe Management System Project\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UsersFrom.resources
+E:\C# Projects\Cafe Management System Project\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.ViewOrders.resources
+C:\Users\MicroSoft\Downloads\CafeManagementSystem\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe
+C:\Users\MicroSoft\Downloads\CafeManagementSystem\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe.config
+C:\Users\MicroSoft\Downloads\CafeManagementSystem\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.AssemblyReference.cache
+C:\Users\MicroSoft\Downloads\CafeManagementSystem\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.Form1.resources
+C:\Users\MicroSoft\Downloads\CafeManagementSystem\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.ItemForm.resources
+C:\Users\MicroSoft\Downloads\CafeManagementSystem\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.ItemsForm.resources
+C:\Users\MicroSoft\Downloads\CafeManagementSystem\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.Properties.Resources.resources
+C:\Users\MicroSoft\Downloads\CafeManagementSystem\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UserOrder.resources
+C:\Users\MicroSoft\Downloads\CafeManagementSystem\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UsersFrom.resources
+C:\Users\MicroSoft\Downloads\CafeManagementSystem\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.ViewOrders.resources
+C:\Users\MicroSoft\Downloads\CafeManagementSystem\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.GenerateResource.cache
+C:\Users\MicroSoft\Downloads\CafeManagementSystem\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\MicroSoft\Downloads\CafeManagementSystem\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.exe
+C:\Users\MicroSoft\Downloads\CafeManagementSystem\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.pdb
+C:\Users\MicroSoft\Downloads\CafeManagementSystem\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.pdb

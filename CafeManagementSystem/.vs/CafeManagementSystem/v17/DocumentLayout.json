@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8D88B0-24C5-4747-9CD0-662A94005E2B}|CafeManagementSystem\\CafeManagementSystem.csproj|c:\\users\\microsoft\\downloads\\cafemanagementsystem\\cafemanagementsystem\\cafemanagementsystem\\userorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8D88B0-24C5-4747-9CD0-662A94005E2B}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\userorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8D88B0-24C5-4747-9CD0-662A94005E2B}|CafeManagementSystem\\CafeManagementSystem.csproj|C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\cafemanagementsystem\\itemsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD8D88B0-24C5-4747-9CD0-662A94005E2B}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\itemsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8D88B0-24C5-4747-9CD0-662A94005E2B}|CafeManagementSystem\\CafeManagementSystem.csproj|C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\cafemanagementsystem\\itemsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8D88B0-24C5-4747-9CD0-662A94005E2B}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\itemsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8D88B0-24C5-4747-9CD0-662A94005E2B}|CafeManagementSystem\\CafeManagementSystem.csproj|C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\cafemanagementsystem\\vieworders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8D88B0-24C5-4747-9CD0-662A94005E2B}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\vieworders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8D88B0-24C5-4747-9CD0-662A94005E2B}|CafeManagementSystem\\CafeManagementSystem.csproj|C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\cafemanagementsystem\\vieworders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD8D88B0-24C5-4747-9CD0-662A94005E2B}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\vieworders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8D88B0-24C5-4747-9CD0-662A94005E2B}|CafeManagementSystem\\CafeManagementSystem.csproj|C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\cafemanagementsystem\\userorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD8D88B0-24C5-4747-9CD0-662A94005E2B}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\userorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8D88B0-24C5-4747-9CD0-662A94005E2B}|CafeManagementSystem\\CafeManagementSystem.csproj|C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\cafemanagementsystem\\usersfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8D88B0-24C5-4747-9CD0-662A94005E2B}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\usersfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8D88B0-24C5-4747-9CD0-662A94005E2B}|CafeManagementSystem\\CafeManagementSystem.csproj|C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\cafemanagementsystem\\usersfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD8D88B0-24C5-4747-9CD0-662A94005E2B}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\usersfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8D88B0-24C5-4747-9CD0-662A94005E2B}|CafeManagementSystem\\CafeManagementSystem.csproj|C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\cafemanagementsystem\\guestorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8D88B0-24C5-4747-9CD0-662A94005E2B}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\guestorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8D88B0-24C5-4747-9CD0-662A94005E2B}|CafeManagementSystem\\CafeManagementSystem.csproj|C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\cafemanagementsystem\\guestorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD8D88B0-24C5-4747-9CD0-662A94005E2B}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\guestorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8D88B0-24C5-4747-9CD0-662A94005E2B}|CafeManagementSystem\\CafeManagementSystem.csproj|C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\cafemanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8D88B0-24C5-4747-9CD0-662A94005E2B}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8D88B0-24C5-4747-9CD0-662A94005E2B}|CafeManagementSystem\\CafeManagementSystem.csproj|C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\cafemanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD8D88B0-24C5-4747-9CD0-662A94005E2B}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8D88B0-24C5-4747-9CD0-662A94005E2B}|CafeManagementSystem\\CafeManagementSystem.csproj|C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\cafemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8D88B0-24C5-4747-9CD0-662A94005E2B}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8D88B0-24C5-4747-9CD0-662A94005E2B}|CafeManagementSystem\\CafeManagementSystem.csproj|C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\cafemanagementsystem\\userorder.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8D88B0-24C5-4747-9CD0-662A94005E2B}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\userorder.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8D88B0-24C5-4747-9CD0-662A94005E2B}|CafeManagementSystem\\CafeManagementSystem.csproj|C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\cafemanagementsystem\\usersfrom.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8D88B0-24C5-4747-9CD0-662A94005E2B}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\usersfrom.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserOrder.cs",
+              "DocumentMoniker": "C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CafeManagementSystem\\UserOrder.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\UserOrder.cs",
+              "ToolTip": "C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CafeManagementSystem\\UserOrder.cs",
+              "RelativeToolTip": "CafeManagementSystem\\UserOrder.cs",
+              "ViewState": "AgIAAG4AAAAAAEAVpg8vwHwAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:00:04.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CafeManagementSystem\\ItemsForm.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\ItemsForm.cs",
+              "ToolTip": "C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CafeManagementSystem\\ItemsForm.cs [Design]",
+              "RelativeToolTip": "CafeManagementSystem\\ItemsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:20:52.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemsForm.cs",
+              "DocumentMoniker": "C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CafeManagementSystem\\ItemsForm.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\ItemsForm.cs",
+              "ToolTip": "C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CafeManagementSystem\\ItemsForm.cs",
+              "RelativeToolTip": "CafeManagementSystem\\ItemsForm.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:10:08.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserOrder.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CafeManagementSystem\\UserOrder.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\UserOrder.cs",
+              "ToolTip": "C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CafeManagementSystem\\UserOrder.cs [Design]",
+              "RelativeToolTip": "CafeManagementSystem\\UserOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:29:59.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewOrders.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CafeManagementSystem\\ViewOrders.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\ViewOrders.cs",
+              "ToolTip": "C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CafeManagementSystem\\ViewOrders.cs [Design]",
+              "RelativeToolTip": "CafeManagementSystem\\ViewOrders.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:30:18.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewOrders.cs",
+              "DocumentMoniker": "C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CafeManagementSystem\\ViewOrders.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\ViewOrders.cs",
+              "ToolTip": "C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CafeManagementSystem\\ViewOrders.cs",
+              "RelativeToolTip": "CafeManagementSystem\\ViewOrders.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAA2wDgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:10:46.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersFrom.cs",
+              "DocumentMoniker": "C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CafeManagementSystem\\UsersFrom.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\UsersFrom.cs",
+              "ToolTip": "C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CafeManagementSystem\\UsersFrom.cs",
+              "RelativeToolTip": "CafeManagementSystem\\UsersFrom.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAAF4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:10:37.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsersFrom.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CafeManagementSystem\\UsersFrom.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\UsersFrom.cs",
+              "ToolTip": "C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CafeManagementSystem\\UsersFrom.cs [Design]",
+              "RelativeToolTip": "CafeManagementSystem\\UsersFrom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:30:09.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GuestOrder.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CafeManagementSystem\\GuestOrder.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\GuestOrder.cs",
+              "ToolTip": "C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CafeManagementSystem\\GuestOrder.cs [Design]",
+              "RelativeToolTip": "CafeManagementSystem\\GuestOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:27:56.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GuestOrder.cs",
+              "DocumentMoniker": "C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CafeManagementSystem\\GuestOrder.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\GuestOrder.cs",
+              "ToolTip": "C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CafeManagementSystem\\GuestOrder.cs",
+              "RelativeToolTip": "CafeManagementSystem\\GuestOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:09:55.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CafeManagementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CafeManagementSystem\\Form1.cs",
+              "RelativeToolTip": "CafeManagementSystem\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:08:58.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CafeManagementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CafeManagementSystem\\Form1.cs [Design]",
+              "RelativeToolTip": "CafeManagementSystem\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:27:09.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CafeManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CafeManagementSystem\\Program.cs",
+              "RelativeToolTip": "CafeManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:10:21.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsersFrom.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CafeManagementSystem\\UsersFrom.Designer.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\UsersFrom.Designer.cs",
+              "ToolTip": "C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CafeManagementSystem\\UsersFrom.Designer.cs",
+              "RelativeToolTip": "CafeManagementSystem\\UsersFrom.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:10:34.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserOrder.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CafeManagementSystem\\UserOrder.Designer.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\UserOrder.Designer.cs",
+              "ToolTip": "C:\\Users\\MicroSoft\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CafeManagementSystem\\UserOrder.Designer.cs",
+              "RelativeToolTip": "CafeManagementSystem\\UserOrder.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:10:22.437Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
